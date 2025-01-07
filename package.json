@@ -1,6 +1,6 @@
 {
-  "name": "@inxeoz/auto-increment", 
-  "version": "1.0.5", 
+  "name": "@inxeoz/mongoose-auto-increment", 
+  "version": "1.0.8", 
   "description": "Mongoose plugin to automatically increment a specified field.",
   "main": "index.js", 
   "keywords": [
@@ -13,6 +13,6 @@
   "license": "MIT", 
   "repository": {
     "type": "git",
-    "url": "git@github.com:inxeoz/auto-increament.git" 
+    "url": "git@github.com:inxeoz/mongoose-auto-increment.git" 
   }
 }

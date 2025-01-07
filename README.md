@@ -14,4 +14,4 @@ This is a Mongoose plugin for auto-incrementing field values in MongoDB document
 Install the plugin via npm:
 
 ```bash
-npm install @inxeoz/auto-increment
+npm i @inxeoz/mongoose-auto-increment
